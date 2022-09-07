@@ -1,0 +1,14 @@
+com/shopax/initapp/BuildConfig.java
+ com.shopax.initapp.BuildConfig
+com/shopax/initapp/ReactNativeFlipper.java
+ com.shopax.initapp.ReactNativeFlipper
+ com.shopax.initapp.ReactNativeFlipper$1
+ com.shopax.initapp.ReactNativeFlipper$2
+ com.shopax.initapp.ReactNativeFlipper$2$1
+com/shopax/initapp/MainApplication.java
+ com.shopax.initapp.MainApplication
+ com.shopax.initapp.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/shopax/initapp/MainActivity.java
+ com.shopax.initapp.MainActivity
